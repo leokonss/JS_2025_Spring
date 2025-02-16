@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "name": "JS_2025_Spring",
+  "version": "1.0.0",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
